@@ -38,3 +38,35 @@ Developed as a Second Year Computer Engineering **Data Structures (26CMPC32)** m
    ```bash
    git clone [https://github.com/deepeshbind13/Music-Playlist-Manager.git](https://github.com/deepeshbind13/Music-Playlist-Manager.git)
    cd Music-Playlist-Manager
+   ```
+
+2. **Compile the Java program:**
+   ```bash
+   javac MusicPlaylistManager.java
+   ```
+
+3. **Run the application:**
+   ```bash
+   java MusicPlaylistManager
+   ```
+
+---
+
+## Sample Console Menu & Input
+
+```text
+===== MUSIC PLAYLIST MANAGER =====
+1. Add Song
+2. Insert Song at Position
+3. Delete Song
+4. Display Playlist
+5. Search Song
+6. Play Next Song
+7. Play Previous Song
+8. Exit
+Enter your choice: 1
+Enter Song ID: 101
+Enter Song Title: As It Was
+Enter Artist Name: Harry Styles
+As It Was successfully added!
+```
